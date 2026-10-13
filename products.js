@@ -61,6 +61,7 @@ const PRODUCTS = [
   { code: 2203, name: 'CHOCOLATE SIN AZUCAR', category: 'ICE POPS BAÑADOS', unit: 'Unidad', avgWeight: null, price1: null, price2: null },
   { code: 2235, name: 'SMILE', category: 'ICE POPS BAÑADOS', unit: 'Unidad', avgWeight: null, price1: 1.49, price2: null },
   { code: 2236, name: 'SORBETE DE FRUTOS ROJOS', category: 'ICE POPS BAÑADOS', unit: 'Unidad', avgWeight: null, price1: 1.32, price2: null },
+  { code: 90217, name: 'CORAZON AMARILLO', category: 'ICE POPS BAÑADOS', unit: 'Unidad', avgWeight: null, price1: null, price2: null },
   { code: 2043, name: 'SORBETE SUPREMO 80%', category: 'ICE POPS LUXURY', unit: 'Unidad', avgWeight: null, price1: 1.248, price2: 0.501 },
   { code: 2041, name: 'KING DOBLE CHOCOLATE', category: 'ICE POPS LUXURY', unit: 'Unidad', avgWeight: null, price1: 1.571, price2: 0.524 },
   { code: 2039, name: 'CHOCOLATE Y DOBLE CHOCOLATE', category: 'ICE POPS LUXURY', unit: 'Unidad', avgWeight: null, price1: 1.571, price2: 0.753 },
